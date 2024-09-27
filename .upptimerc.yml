@@ -5,6 +5,10 @@ repo: upptime-studentenkerk # The name of this repository
 sites:
   - name: Studentenkerk
     url: https://www.studentenkerk.nl
+  - name: Alpha-Cursus voor Young Professionals
+    url: https://young-professional.alphautrecht.nl/
+  - name: Business Alpha-Cursus
+    url: http://businessalphautrecht.nl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
