@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 1513,
-    "timeDay": 1867,
-    "timeWeek": 1513,
-    "timeMonth": 1513,
-    "timeYear": 1513,
+    "status": "up",
+    "uptime": "97.33%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 2024,
+    "timeDay": 2674,
+    "timeWeek": 2024,
+    "timeMonth": 2024,
+    "timeYear": 2024,
     "dailyMinutesDown": {
-      "2024-09-28": 47
+      "2024-09-28": 54
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-28": 1371,
+      "2024-09-28": 1377,
       "2024-09-27": 596
     }
   },
@@ -45,19 +45,19 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "down",
-    "uptime": "97.78%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
-    "time": 1212,
-    "timeDay": 1379,
-    "timeWeek": 1212,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "97.45%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
+    "time": 1631,
+    "timeDay": 1862,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
     "dailyMinutesDown": {
-      "2024-09-28": 44
+      "2024-09-28": 51
     }
   }
 ]
