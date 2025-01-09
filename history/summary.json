@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.52%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "94.51%",
     "uptimeMonth": "95.87%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.15%",
     "time": 1729,
     "timeDay": 1749,
-    "timeWeek": 1527,
+    "timeWeek": 1524,
     "timeMonth": 1631,
     "timeYear": 1729,
     "dailyMinutesDown": {
-      "2025-01-09": 91,
+      "2025-01-09": 92,
       "2025-01-08": 61,
       "2025-01-07": 102,
       "2025-01-06": 100,
@@ -61,7 +61,7 @@
       "2024-10-16": 19,
       "2024-10-15": 21,
       "2024-10-14": 24,
-      "2024-10-13": 46
+      "2024-10-13": 29
     }
   },
   {
@@ -69,19 +69,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "95.08%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "96.07%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 1309,
     "timeDay": 1461,
-    "timeWeek": 1341,
+    "timeWeek": 1345,
     "timeMonth": 1385,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2025-01-09": 76,
+      "2025-01-09": 77,
       "2025-01-08": 59,
       "2025-01-07": 100,
       "2025-01-06": 81,
@@ -128,8 +128,7 @@
       "2024-10-14": 24,
       "2024-10-13": 44,
       "2024-10-12": 47,
-      "2024-10-11": 21,
-      "2024-10-07": 19
+      "2024-10-11": 21
     }
   },
   {
@@ -137,15 +136,15 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "93.79%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "93.78%",
     "uptimeWeek": "95.18%",
     "uptimeMonth": "96.21%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.19%",
     "time": 1464,
     "timeDay": 1591,
-    "timeWeek": 1446,
+    "timeWeek": 1444,
     "timeMonth": 1524,
     "timeYear": 1464,
     "dailyMinutesDown": {
@@ -198,8 +197,7 @@
       "2024-10-12": 46,
       "2024-10-11": 21,
       "2024-10-07": 19,
-      "2024-10-01": 34,
-      "2024-09-28": 24
+      "2024-10-01": 34
     }
   }
 ]
