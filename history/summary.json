@@ -4,18 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "98.17%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "98.19%",
     "time": 1737,
     "timeDay": 1351,
     "timeWeek": 1547,
     "timeMonth": 1552,
     "timeYear": 1737,
     "dailyMinutesDown": {
+      "2025-01-11": 1,
       "2025-01-10": 67,
       "2025-01-09": 126,
       "2025-01-08": 61,
@@ -57,8 +58,7 @@
       "2024-10-22": 48,
       "2024-10-20": 17,
       "2024-10-19": 40,
-      "2024-10-18": 19,
-      "2024-10-17": 27
+      "2024-10-18": 19
     }
   },
   {
@@ -66,18 +66,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "98.18%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "98.20%",
     "time": 1301,
     "timeDay": 1278,
     "timeWeek": 1246,
     "timeMonth": 1291,
     "timeYear": 1301,
     "dailyMinutesDown": {
+      "2025-01-11": 1,
       "2025-01-10": 66,
       "2025-01-09": 110,
       "2025-01-08": 59,
@@ -123,8 +124,7 @@
       "2024-10-17": 26,
       "2024-10-16": 19,
       "2024-10-15": 20,
-      "2024-10-14": 24,
-      "2024-10-13": 28
+      "2024-10-14": 24
     }
   },
   {
@@ -132,18 +132,19 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "95.80%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "98.20%",
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "98.21%",
     "time": 1463,
     "timeDay": 1667,
     "timeWeek": 1475,
     "timeMonth": 1466,
     "timeYear": 1463,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2025-01-10": 64,
       "2025-01-09": 91,
       "2025-01-08": 58,
@@ -191,8 +192,7 @@
       "2024-10-15": 20,
       "2024-10-14": 23,
       "2024-10-13": 44,
-      "2024-10-12": 46,
-      "2024-10-11": 21
+      "2024-10-12": 46
     }
   }
 ]
