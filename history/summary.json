@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "94.57%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "94.56%",
     "uptimeMonth": "96.00%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.23%",
     "time": 1701,
     "timeDay": 1162,
     "timeWeek": 1521,
     "timeMonth": 1509,
     "timeYear": 1701,
     "dailyMinutesDown": {
-      "2025-01-14": 61,
+      "2025-01-14": 62,
       "2025-01-13": 54,
       "2025-01-12": 115,
       "2025-01-11": 62,
@@ -53,9 +53,7 @@
       "2024-11-27": 39,
       "2024-11-26": 23,
       "2024-11-25": 115,
-      "2024-11-24": 80,
-      "2024-11-23": 61,
-      "2024-11-22": 3
+      "2024-11-24": 80
     }
   },
   {
@@ -63,19 +61,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "94.83%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "94.82%",
     "uptimeMonth": "96.21%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 1289,
     "timeDay": 1091,
     "timeWeek": 1197,
     "timeMonth": 1259,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2025-01-14": 61,
+      "2025-01-14": 62,
       "2025-01-13": 53,
       "2025-01-12": 113,
       "2025-01-11": 61,
@@ -116,7 +114,7 @@
       "2024-11-23": 61,
       "2024-11-22": 3,
       "2024-10-25": 45,
-      "2024-10-23": 35
+      "2024-10-23": 17
     }
   },
   {
@@ -124,12 +122,12 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "93.27%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "95.52%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.23%",
     "time": 1449,
     "timeDay": 1102,
     "timeWeek": 1395,
@@ -181,8 +179,7 @@
       "2024-10-22": 46,
       "2024-10-20": 16,
       "2024-10-19": 38,
-      "2024-10-18": 18,
-      "2024-10-17": 26
+      "2024-10-18": 18
     }
   }
 ]
