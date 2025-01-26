@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "90.54%",
-    "uptimeWeek": "94.82%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "94.81%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.51%",
     "time": 1675,
-    "timeDay": 3060,
-    "timeWeek": 1748,
-    "timeMonth": 1506,
+    "timeDay": 3657,
+    "timeWeek": 1768,
+    "timeMonth": 1508,
     "timeYear": 1675,
     "dailyMinutesDown": {
-      "2025-01-26": 101,
+      "2025-01-26": 102,
       "2025-01-25": 56,
       "2025-01-24": 140,
       "2025-01-23": 33,
@@ -52,7 +52,7 @@
       "2024-12-17": 54,
       "2024-12-15": 38,
       "2024-12-13": 22,
-      "2024-12-12": 74
+      "2024-12-12": 49
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "90.67%",
-    "uptimeWeek": "95.06%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "95.05%",
     "uptimeMonth": "95.34%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 1269,
     "timeDay": 1313,
-    "timeWeek": 1194,
-    "timeMonth": 1229,
+    "timeWeek": 1198,
+    "timeMonth": 1231,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2025-01-26": 100,
+      "2025-01-26": 101,
       "2025-01-25": 55,
       "2025-01-24": 137,
       "2025-01-23": 18,
@@ -110,7 +110,7 @@
       "2024-12-13": 21,
       "2024-12-12": 73,
       "2024-12-11": 92,
-      "2024-12-10": 152
+      "2024-12-10": 133
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "95.30%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "95.29%",
     "uptimeMonth": "95.70%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.39%",
     "time": 1446,
-    "timeDay": 1525,
-    "timeWeek": 1394,
-    "timeMonth": 1419,
+    "timeDay": 1608,
+    "timeWeek": 1410,
+    "timeMonth": 1420,
     "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-01-26": 98,
@@ -172,7 +172,7 @@
       "2024-12-09": 2,
       "2024-12-08": 47,
       "2024-12-06": 49,
-      "2024-12-05": 67
+      "2024-12-05": 51
     }
   }
 ]
