@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "94.95%",
+    "uptimeYear": "98.55%",
     "time": 1670,
-    "timeDay": 1251,
+    "timeDay": 1341,
     "timeWeek": 1896,
     "timeMonth": 1516,
     "timeYear": 1670,
     "dailyMinutesDown": {
-      "2025-01-29": 21,
+      "2025-01-29": 22,
       "2025-01-28": 16,
       "2025-01-27": 39,
       "2025-01-26": 101,
@@ -53,7 +53,7 @@
       "2024-12-22": 49,
       "2024-12-19": 55,
       "2024-12-17": 54,
-      "2024-12-15": 38
+      "2024-12-15": 19
     }
   },
   {
@@ -61,19 +61,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "97.51%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "97.46%",
     "uptimeWeek": "95.78%",
     "uptimeMonth": "95.22%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.55%",
     "time": 1268,
-    "timeDay": 1342,
+    "timeDay": 1509,
     "timeWeek": 1262,
     "timeMonth": 1223,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2025-01-29": 20,
+      "2025-01-29": 21,
       "2025-01-28": 16,
       "2025-01-27": 38,
       "2025-01-26": 100,
@@ -113,7 +113,7 @@
       "2024-12-15": 36,
       "2024-12-13": 21,
       "2024-12-12": 73,
-      "2024-12-11": 40
+      "2024-12-11": 16
     }
   },
   {
@@ -121,14 +121,14 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "97.57%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "96.00%",
     "uptimeMonth": "95.58%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 1452,
-    "timeDay": 1364,
+    "timeDay": 1516,
     "timeWeek": 1550,
     "timeMonth": 1420,
     "timeYear": 1452,
@@ -176,8 +176,7 @@
       "2024-12-11": 92,
       "2024-12-10": 256,
       "2024-12-09": 2,
-      "2024-12-08": 47,
-      "2024-12-06": 19
+      "2024-12-08": 47
     }
   }
 ]
