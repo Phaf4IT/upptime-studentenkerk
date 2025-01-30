@@ -4,18 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "95.45%",
-    "uptimeMonth": "94.88%",
-    "uptimeYear": "98.55%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "98.56%",
     "time": 1673,
     "timeDay": 1766,
     "timeWeek": 1820,
     "timeMonth": 1536,
     "timeYear": 1673,
     "dailyMinutesDown": {
+      "2025-01-30": 1,
       "2025-01-29": 74,
       "2025-01-28": 16,
       "2025-01-27": 39,
@@ -52,7 +53,7 @@
       "2024-12-23": 38,
       "2024-12-22": 49,
       "2024-12-19": 55,
-      "2024-12-17": 36
+      "2024-12-17": 18
     }
   },
   {
@@ -60,18 +61,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "98.56%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "98.57%",
     "time": 1268,
     "timeDay": 1194,
     "timeWeek": 1285,
     "timeMonth": 1226,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2025-01-30": 1,
       "2025-01-29": 71,
       "2025-01-28": 16,
       "2025-01-27": 38,
@@ -111,7 +113,7 @@
       "2024-12-17": 53,
       "2024-12-15": 36,
       "2024-12-13": 21,
-      "2024-12-12": 48
+      "2024-12-12": 27
     }
   },
   {
@@ -119,18 +121,19 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "96.20%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "98.44%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "98.46%",
     "time": 1451,
     "timeDay": 1326,
     "timeWeek": 1543,
     "timeMonth": 1414,
     "timeYear": 1451,
     "dailyMinutesDown": {
+      "2025-01-30": 0,
       "2025-01-29": 55,
       "2025-01-28": 15,
       "2025-01-27": 37,
@@ -173,8 +176,7 @@
       "2024-12-12": 72,
       "2024-12-11": 92,
       "2024-12-10": 256,
-      "2024-12-09": 2,
-      "2024-12-08": 29
+      "2024-12-09": 2
     }
   }
 ]
