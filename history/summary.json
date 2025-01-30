@@ -4,19 +4,19 @@
     "url": "https://www.studentenkerk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.studentenkerk.nl.ico",
     "slug": "studentenkerk",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "98.55%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "98.56%",
     "time": 1673,
-    "timeDay": 1751,
+    "timeDay": 1838,
     "timeWeek": 1817,
-    "timeMonth": 1536,
+    "timeMonth": 1537,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2025-01-30": 22,
+      "2025-01-30": 23,
       "2025-01-29": 74,
       "2025-01-28": 16,
       "2025-01-27": 39,
@@ -52,8 +52,7 @@
       "2024-12-25": 142,
       "2024-12-23": 38,
       "2024-12-22": 49,
-      "2024-12-19": 55,
-      "2024-12-17": 18
+      "2024-12-19": 55
     }
   },
   {
@@ -61,19 +60,19 @@
     "url": "https://young-professional.alphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/young-professional.alphautrecht.nl.ico",
     "slug": "alpha-cursus-voor-young-professionals",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "93.56%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "94.92%",
     "uptimeWeek": "95.46%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "98.56%",
+    "uptimeMonth": "95.57%",
+    "uptimeYear": "98.57%",
     "time": 1267,
-    "timeDay": 1182,
+    "timeDay": 1227,
     "timeWeek": 1281,
-    "timeMonth": 1226,
+    "timeMonth": 1228,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2025-01-30": 21,
+      "2025-01-30": 22,
       "2025-01-29": 71,
       "2025-01-28": 16,
       "2025-01-27": 38,
@@ -112,8 +111,7 @@
       "2024-12-19": 54,
       "2024-12-17": 53,
       "2024-12-15": 36,
-      "2024-12-13": 21,
-      "2024-12-12": 27
+      "2024-12-13": 21
     }
   },
   {
@@ -121,16 +119,16 @@
     "url": "http://businessalphautrecht.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "94.74%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "96.10%",
     "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "98.45%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "98.49%",
     "time": 1451,
-    "timeDay": 1342,
+    "timeDay": 1385,
     "timeWeek": 1542,
-    "timeMonth": 1414,
+    "timeMonth": 1415,
     "timeYear": 1451,
     "dailyMinutesDown": {
       "2025-01-30": 21,
@@ -175,8 +173,7 @@
       "2024-12-13": 21,
       "2024-12-12": 72,
       "2024-12-11": 92,
-      "2024-12-10": 256,
-      "2024-12-09": 2
+      "2024-12-10": 176
     }
   }
 ]
