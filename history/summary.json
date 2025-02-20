@@ -6,17 +6,16 @@
     "slug": "studentenkerk",
     "status": "up",
     "uptime": "95.15%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "27.12%",
-    "uptimeMonth": "78.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "27.16%",
+    "uptimeMonth": "78.83%",
     "uptimeYear": "95.15%",
     "time": 1671,
-    "timeDay": 1412,
+    "timeDay": 1102,
     "timeWeek": 1702,
     "timeMonth": 1704,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2025-02-19": 4,
       "2025-02-18": 445,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -56,7 +55,7 @@
       "2025-01-10": 67,
       "2025-01-09": 126,
       "2025-01-08": 61,
-      "2025-01-07": 34
+      "2025-01-07": 55
     }
   },
   {
@@ -66,17 +65,16 @@
     "slug": "alpha-cursus-voor-young-professionals",
     "status": "up",
     "uptime": "95.12%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "26.51%",
-    "uptimeMonth": "78.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "27.48%",
+    "uptimeMonth": "78.79%",
     "uptimeYear": "95.12%",
     "time": 1282,
-    "timeDay": 1289,
-    "timeWeek": 1298,
+    "timeDay": 1123,
+    "timeWeek": 1354,
     "timeMonth": 1297,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2025-02-19": 4,
       "2025-02-18": 429,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -117,7 +115,7 @@
       "2025-01-09": 110,
       "2025-01-08": 59,
       "2025-01-07": 100,
-      "2025-01-06": 21
+      "2025-01-06": 42
     }
   },
   {
@@ -126,18 +124,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/businessalphautrecht.nl.ico",
     "slug": "business-alpha-cursus",
     "status": "up",
-    "uptime": "95.26%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "27.47%",
+    "uptime": "95.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "27.51%",
     "uptimeMonth": "79.76%",
-    "uptimeYear": "95.26%",
+    "uptimeYear": "95.25%",
     "time": 1462,
-    "timeDay": 1470,
-    "timeWeek": 1496,
+    "timeDay": 1238,
+    "timeWeek": 1551,
     "timeMonth": 1495,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2025-02-19": 3,
       "2025-02-18": 429,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -181,7 +178,9 @@
       "2025-01-06": 81,
       "2025-01-05": 16,
       "2025-01-04": 16,
-      "2025-01-03": 145
+      "2025-01-03": 145,
+      "2025-01-02": 41,
+      "2025-01-01": 5
     }
   }
 ]
